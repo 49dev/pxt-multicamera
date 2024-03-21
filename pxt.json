@@ -1,0 +1,14 @@
+{
+    "name": "arcade-multicamera",
+    "version": "0.0.1",
+    "description": "An extension for triangulating the camera based on sprite locations",
+    "dependencies": {
+        "device": "*",
+        "shader": "*",
+        "arcade-extension-utils": "github:riknoll/arcade-extension-utils#v0.0.1"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "preferredEditor": "tsprj"
+}
